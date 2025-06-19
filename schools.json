@@ -1,0 +1,92 @@
+[
+  {
+    "name": "St Bernards College",
+    "short": "STB",
+    "logoURL": "https://admin.gslmelbourne.com.au/uploads/venues/venue_682fef274bbec.png",
+    "address": "55 Hampton Rd",
+    "mapURL": "https://maps.apple.com/place?address=55%20Hampton%20Rd%20Essendon%20West%20VIC%203040,%20Australia&coordinate=-37.751783,144.883328&name=55%20Hampton%20Rd&map=explore",
+    "notes": "",
+    "links": [],
+    "copyItems": []
+  },
+  {
+    "name": "Rivergum PAC",
+    "short": "RPAC",
+    "logoURL": "https://admin.gslmelbourne.com.au/uploads/venues/venue_6829be1c219ed.jpg",
+    "address": "58-96 Fordholm Rd",
+    "mapURL": "https://maps.apple.com/place?address=58-96%20Fordholm%20Rd,%20Hampton%20Park%20VIC%203976,%20Australia&coordinate=-38.036245,145.259002&name=58-96%20Fordholm%20Rd&map=explore",
+    "notes": "PiSignage | pi:pi\nKey Safe | 4750",
+    "links": [
+      {
+        "title": "PiSignage - Downstairs",
+        "url": "http://rpac---downstairs-foyer.local:8000/"
+      }
+    ],
+    "copyItems": []
+  },
+  {
+    "name": "Berwick Fields Primary School",
+    "short": "BFPS",
+    "logoURL": "https://scontent-syd2-1.cdninstagram.com/v/t51.29350-15/407899270_696402019133163_1465409611212259124_n.jpg?...",
+    "address": "35 Gwendoline Dr",
+    "mapURL": "https://maps.apple.com/place?address=35%20Gwendoline%20Dr,%20Berwick%20VIC%203806,%20Australia&coordinate=-38.049450,145.333570&name=35%20Gwendoline%20Dr&map=explore",
+    "notes": "",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://jeffersonelem.org"
+      }
+    ],
+    "copyItems": []
+  },
+  {
+    "name": "Centenary Theatre",
+    "short": "CT",
+    "logoURL": "https://admin.gslmelbourne.com.au/uploads/venues/venue_682ff739c0055.jpg",
+    "address": "71 Railway Pl",
+    "mapURL": "https://maps.apple.com/place?address=71%20Railway%20Pl,%20Williamstown%20VIC%203016,%20Australia&coordinate=-37.862696,144.893545&name=71%20Railway%20Pl&map=explore",
+    "notes": "",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://jeffersonelem.org"
+      }
+    ],
+    "copyItems": []
+  },
+  {
+    "name": "Cragieburn Secondary College",
+    "short": "CSC",
+    "logoURL": "https://craigieburnsc.vic.edu.au/wp-content/uploads/2022/12/DSCN6474.jpg",
+    "address": "102 Hothlyn Dr, Cragieburn",
+    "mapURL": "https://maps.apple.com/place?address=102%20Hothlyn%20Dr,%20Craigieburn%20VIC%203064,%20Australia&coordinate=-37.608922,144.934359&name=102%20Hothlyn%20Dr&map=explore",
+    "notes": "",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://jeffersonelem.org"
+      }
+    ],
+    "copyItems": []
+  },
+  {
+    "name": "TEMPLATE ONLY",
+    "short": "TEMPLATE",
+    "logoURL": "logo url",
+    "address": "address goes here",
+    "mapURL": "maps url",
+    "notes": "notes",
+    "links": [
+      {
+        "title": "Title",
+        "url": "url"
+      }
+    ],
+    "copyItems": [
+      {
+        "label": "Title",
+        "value": "text to copy"
+      }
+    ]
+  }
+]
